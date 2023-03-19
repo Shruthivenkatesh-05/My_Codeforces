@@ -12,9 +12,11 @@ Dashboard
 In Dashboard after login we have have admin page where admin can see their profile Info then a welcome text with the clock displaying the current time. Admin can Add stocks in Brands , and categories in the respective sections and they can add and manage the stocks as well. They can even see the orders page where they can see the various orders.  
 Add Product
 Here admin can add new launch product with particular category and particular brand. 
+![image](https://user-images.githubusercontent.com/76960510/226199075-cebf2fd7-a356-4a17-a348-0466301f3d43.png)
+
 Add Categories
 Admin can add Categories with particular parent category.
-![image](https://user-images.githubusercontent.com/76960510/226199075-cebf2fd7-a356-4a17-a348-0466301f3d43.png)
+![4](https://user-images.githubusercontent.com/76960510/226199213-91c4c6b8-1fc0-45d9-8f7e-1aff13389e0f.png)
 
  
 
